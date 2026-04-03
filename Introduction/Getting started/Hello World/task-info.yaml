@@ -21,6 +21,12 @@ files:
   - name: tests/tests.rs
     visible: false
     learner_created: false
+  - name: images/run_dark.svg
+    visible: true
+    learner_created: true
+  - name: images/run.svg
+    visible: true
+    learner_created: true
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Introduction+/+Getting+started+/+Hello+World
 status: Solved
 feedback:
